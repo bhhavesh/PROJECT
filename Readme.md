@@ -9,5 +9,5 @@ QuizBee is an android based application, and enables the user to undertake a ser
 <li> <b>Questions </b>– displays MCQ’s and currents Score.
 <li> <b>Results </b>– displays Results after finishing the quiz.
 <li> <b>Developers </b>– displays the information about the developers.</ol>
-
+THANKYOU
 
