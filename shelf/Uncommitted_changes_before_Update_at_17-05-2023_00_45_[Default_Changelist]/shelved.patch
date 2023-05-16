@@ -1,0 +1,25 @@
+Index: Readme.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Readme\r\nThis app was developed as a learning project for Android. It is developed in Android Studio 2.1<br>\r\n\r\n## Introduction\r\nQuizBee is an android based application, and enables the user to undertake a series of questions on Java language. The app is user friendly, and the user shall find it extremely easy to answer the multiple-choice questions. At the end of the quiz, a result-report is generated which states the score. The app also presents an option to the current user to play the question-round again or quit in between.<br>\r\n<br>There are four Activities in the app :<br>\r\n<ol>\r\n<li> <b>Main </b>– displays Home Screen of application.\r\n<li> <b>Questions </b>– displays MCQ’s and currents Score.\r\n<li> <b>Results </b>– displays Results after finishing the quiz.\r\n<li> <b>Developers </b>– displays the information about the developers.</ol>\r\n\r\n## Sreenshot\r\n\r\n<p id=\"img_cont\">\r\n\t<img src=\"/screenshot/pic1.png\" width = \"200\" height= \"350\" hspace=40>\r\n\t<img src=\"/screenshot/pic2.png\" width = \"200\" height= \"350\" hspace=40>\r\n\t<img src=\"/screenshot/pic3.png\" width = \"200\" height= \"350\" hspace=40>\r\n</p>\r\n\r\nIf you have any queries or suggestions you can mail me: vkasojhaa@gmail.com\r\n\r\nYou are welcome to suggest any changes, just send a pull request.\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Readme.md b/Readme.md
+--- a/Readme.md	(revision 5a53ac1fe7b2a6e2a567ae100d293cdfdfe3cccc)
++++ b/Readme.md	(date 1684264554552)
+@@ -10,14 +10,3 @@
+ <li> <b>Results </b>– displays Results after finishing the quiz.
+ <li> <b>Developers </b>– displays the information about the developers.</ol>
+ 
+-## Sreenshot
+-
+-<p id="img_cont">
+-	<img src="/screenshot/pic1.png" width = "200" height= "350" hspace=40>
+-	<img src="/screenshot/pic2.png" width = "200" height= "350" hspace=40>
+-	<img src="/screenshot/pic3.png" width = "200" height= "350" hspace=40>
+-</p>
+-
+-If you have any queries or suggestions you can mail me: vkasojhaa@gmail.com
+-
+-You are welcome to suggest any changes, just send a pull request.
